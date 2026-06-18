@@ -54,6 +54,7 @@
                     <option value="Rumah Ibadah">Rumah Ibadah</option>
                     <option value="Posyandu">Posyandu</option>
                     <option value="Balai">Balai</option>
+                    <option value="Infrastruktur">Infrastruktur</option>
                 </select>
             </div>
 

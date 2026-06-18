@@ -86,6 +86,11 @@ Form Edit Fasilitas
             Balai
         </option>
 
+        <option value="Infrastruktur"
+            {{ $fasilitas->kategori == 'Infrastruktur' ? 'selected' : '' }}>
+            Infrastruktur
+        </option>
+
     </select>
 </div>
 
